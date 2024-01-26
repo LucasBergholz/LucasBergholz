@@ -1,7 +1,9 @@
 ### I am Lucas Bergholz! 👋
 
 - I am currently studying Software Engineering at Universidade de Brasília (UnB);
-- Studying React, Python and C;
+- Learning a little of everything to become a more complete programmer;
+- Studied Web, Mobile and AI development;
+- Currently studying Python and C++ for AI;
 
 ## **Languages and tools:**  
 <div align = "Center">
