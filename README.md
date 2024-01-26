@@ -3,7 +3,7 @@
 - I am currently studying Software Engineering at Universidade de Brasília (UnB);
 - Learning a little of everything to become a more complete programmer;
 - Studied Web, Mobile and AI development;
-- Currently studying Python and C++ for AI;
+- Currently studying Python and C++ for Computer Vision and AI;
 
 ## **Languages and tools:**  
 <div align = "Center">
