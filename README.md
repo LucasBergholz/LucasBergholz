@@ -1,4 +1,4 @@
-### I am Lucas Bergholz! 👋
+### I am Lucas Bergholz! 👋 <code><img height="16" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png"></code> <code><img height="16" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png"></code>
 
 - I am currently studying Software Engineering at Universidade de Brasília (UnB);
 - Learning a little of everything to become a more complete programmer;
@@ -8,6 +8,7 @@
 
 ## **Languages and tools:**  
 <div align = "Center">
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -15,6 +16,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></code>
 </div>
 
 ## **GitHub Statistics**
