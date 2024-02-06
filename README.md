@@ -4,6 +4,7 @@
 - Learning a little of everything to become a more complete programmer;
 - Studied Web, Mobile and AI development;
 - Currently studying Python and C++ for Computer Vision and AI;
+- Currently studying Ruby on Rails for Web Development;
 
 ## **Languages and tools:**  
 <div align = "Center">
