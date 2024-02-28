@@ -1,10 +1,10 @@
-### I am Lucas Bergholz! 👋 <code><img height="16" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/ruby.png"></code> <code><img height="16" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png"></code>
+### I am Lucas Bergholz! 👋 
 
 - I am currently studying Software Engineering at Universidade de Brasília (UnB);
 - Learning a little of everything to become a more complete programmer;
 - Studied Web, Mobile and AI development;
 - Currently studying Python and C++ for Computer Vision and AI;
-- Currently studying Ruby on Rails for Web Development;
+- Currently studying C# and Unity for Game Development;
 
 ## **Languages and tools:**  
 <div align = "Center">
