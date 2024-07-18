@@ -12,7 +12,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" /></code>
 </div>
 
 ## **GitHub Statistics**
@@ -20,5 +20,5 @@
 <div align="center" margin-top="50px">
   <a href="https://github.com/LucasBergholz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasBergholz&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBergholz&layout=compact&langs_count=6&theme=dark&hide_progress=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBergholz&layout=compact&langs_count=6&theme=dark&hide_progress=true&hide=html,css,javascript"/>
 </div>
