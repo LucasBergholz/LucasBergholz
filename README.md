@@ -2,7 +2,6 @@
 
 - I am currently studying Software Engineering at Universidade de Brasília (UnB);
 - Learning a little of everything to become a more complete programmer;
-- Studied Web, Mobile and AI development;
 - Currently studying Python and C++ for Computer Vision and AI;
 - Currently studying C# and Unity for Game Development;
 
