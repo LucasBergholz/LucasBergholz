@@ -19,5 +19,5 @@
 <div align="center" margin-top="50px">
   <a href="https://github.com/LucasBergholz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasBergholz&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBergholz&layout=compact&langs_count=6&theme=dark&hide_progress=true&hide=html,css,javascript"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBergholz&layout=compact&langs_count=6&theme=dark&hide_progress=true&hide=html,css,javascript,HLSL,ShaderLab,Java"/>
 </div>
