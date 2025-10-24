@@ -2,12 +2,9 @@
 
 - I am currently studying Software Engineering at Universidade de Brasília (UnB);
 - Learning a little of everything to become a more complete programmer;
-- Currently studying Python and C++ for Computer Vision and AI;
-- Currently studying C# and Unity for Game Development;
 
 ## **Languages and tools:**  
 <div align = "Center">
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
